@@ -1,4 +1,4 @@
-# Machine-Learning
+# Machine Learning
 
 ### Part 1 - Data Preprocessing
 #### - Data Preprocessing 

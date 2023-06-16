@@ -1,5 +1,4 @@
 # Machine-Learning
-## Machine Learning course repo
 
 ### Part 1 - Data Preprocessing
 #### - Data Preprocessing 

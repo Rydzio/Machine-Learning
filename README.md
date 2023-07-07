@@ -27,7 +27,7 @@
 #### - [Upper Confidence Bound](Reinforcement%20Learning/Upper_confidence_bound.ipynb) 
 #### - [Thompson Sampling](Reinforcement%20Learning/Thompson_sampling.ipynb) 
 ### Part 7 - Natural Language Processing: 
-#### - Bag-of-words model 
+#### - [Bag of Words](Natural%20Language%20Processing/Bag_of_words.ipynb)
 ### Part 8 - Deep Learning: 
 #### - [Artificial Neural Network Regression](Deep%20Learning/Artificial_neural_network_regression.ipynb) 
 #### - [Artificial Neural Network Classification](Deep%20Learning/Artificial_neural_network_classification.ipynb) 
@@ -38,6 +38,7 @@
 #### - [Kernel PCA](Dimensionality%20Reduction/Kernel_pca.ipynb) 
 ### Part 10 - Model Selection & Boosting: 
 #### - [K-fold Cross Validation](Model%20Selection%20&%20Boosting/K_fold_cross_validation.ipynb) 
+#### - [Logistic Regression K-fold Cross Validation](Model%20Selection%20&%20Boosting/Logistic_regression_k_fold.ipynb)
 #### - [CatBoost](Model%20Selection%20&%20Boosting/Cat_boost.ipynb) 
 #### - [Grid Search](Model%20Selection%20&%20Boosting/Grid_search.ipynb) 
 #### - [XGBoost](Model%20Selection%20&%20Boosting/Xg_boost.ipynb)

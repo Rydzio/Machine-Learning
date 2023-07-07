@@ -1,7 +1,7 @@
 # Machine Learning
 
 ### Part 1 - Data Preprocessing
-#### - [Data Preprocessing](Data Preprocessing /Data_preprocessing_tools.ipynb) 
+#### - [Data Preprocessing](Machine-Learning/Data Preprocessing/Data_preprocessing_tools.ipynb) 
 ### Part 2 - Regression: 
 #### - Simple Linear Regression 
 #### - Multiple Linear Regression 
